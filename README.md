@@ -25,7 +25,7 @@ I am a passionate **Software/AI Engineer** with 5 years of experience specializi
 ## 📫 How to reach me
 
 - **Email**: [baterdenesukhochir@gmail.com](mailto:baterdenesukhochir@gmail.com)
-- **LinkedIn**: [Bat-Erdene Sukh-Ochir]([https://www.linkedin.com/in/baterdene-su](https://www.linkedin.com/in/baterdene-sukhochir/))
+- **LinkedIn**: [Bat-Erdene Sukh-Ochir](https://www.linkedin.com/in/baterdene-sukhochir/)
 
 ## 🤝 Let's Connect!
 
