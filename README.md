@@ -6,14 +6,13 @@ I'm a passionate Machine Learning and Generative AI Developer based in Ulaanbaat
 ## 💻 My Work
 - **Machine Learning**: Building intelligent systems that learn from data and improve over time.
 - **Generative AI**: Creating models that can generate new, innovative content.
-- **Open Source Contributor**: Actively contributing to open source projects, learning, and sharing knowledge.
 
 ## 🌱 I’m currently learning
 - Advanced techniques in Deep Learning.
 - New trends in AI and technology.
 
 ## 📫 How to reach me
-- **Email**: [baburyx@gmail.com](mailto:baburyx@gmail.com)
+- **Email**: [baburyx@gmail.com](mailto:baterdenesukhochir@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/baterdene-sukhochir/)
 
 ## ✨ Fun fact
