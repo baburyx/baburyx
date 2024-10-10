@@ -2,12 +2,6 @@
 
 I am a passionate **Software/AI Engineer** with 5 years of experience specializing in generative AI and machine learning. My expertise includes developing, deploying, and optimizing AI models to solve real-world problems. I'm proficient in **Python** and **FastAPI**, and I have a working knowledge of **AWS** and **GCP** cloud platforms.
 
-## 🔧 Technologies & Tools
-
-- **Programming & Web Frameworks**: Python, FastAPI
-- **Machine Learning & AI**: Experience with various generative AI and ML models
-- **Cloud Platforms**: AWS, GCP
-
 ## 🛠 Skills & Expertise
 
 - **Generative AI**: Skilled in utilizing various generative AI models to create innovative solutions.
